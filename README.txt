@@ -14,3 +14,6 @@ This repository contains the data and code to generate the treemap that visualiz
 Note the following abbreviations in the treemap:
 RGSS = Restoring grasslands and shrublands and savannahs
 RSV = Resilience to Stress and Vulnerabilities
+
+
+This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
