@@ -8,7 +8,7 @@ library(ggplot2)
 library(treemap)
 
 # set/change directory
-wdmain <- "G:/My Drive/Projects/IPBES-Nexus/00_analyses/foodPathways-ROs/"
+wdmain <- "G:/My Drive/Projects/IPBES-Nexus/00_analyses/nexus_UNFSS/"
 setwd(paste0(wdmain, "data/"))
 
 # 1. Get data on the countries' proposed pathways at the UNFSS ----
